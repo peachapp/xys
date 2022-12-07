@@ -1,0 +1,5 @@
+/*小于等于768*/
+/* @media screen and (max-width: 768px) {} */
+.page-mini {
+  min-width: 355px;
+}

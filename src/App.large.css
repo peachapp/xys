@@ -1,0 +1,6 @@
+/*大于1200*/
+@media screen and (min-width: 1201px) {
+  .App {
+    min-width: 1161px;
+  }
+}

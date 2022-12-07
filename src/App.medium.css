@@ -1,0 +1,6 @@
+/*992-1200*/
+@media screen and (min-width: 993px) and (max-width: 1200px) {
+  .App {
+    min-width: 961px;
+  }
+}

@@ -1,0 +1,5 @@
+/*大于1200*/
+/* @media screen and (min-width: 1201px) {} */
+.page-large {
+  min-width: 1161px;
+}
